@@ -1,0 +1,156 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Bought a new car",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 10000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "description": "Sold my old car",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "description": "Bought a new car",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 10000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "description": "Sold my old car",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "description": "Bought a new car",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 10000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "description": "Sold my old car",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "description": "Bought a new car",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 10000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "description": "Sold my old car",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "description": "Bought a new car",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 10000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "description": "Sold my old car",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "11",
+      "description": "Bought a new car",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 10000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "12",
+      "description": "Sold my old car",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "13",
+      "description": "Bought a new car",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 10000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "14",
+      "description": "Sold my old car",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "15",
+      "description": "Bought a new car",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 10000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "16",
+      "description": "Sold my old car",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "17",
+      "description": "Bought a new car",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 10000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    }, 
+    {
+      "id": "18",
+      "description": "Casa nova",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 19000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "19",
+      "description": "Casa antiga vendida",
+      "type": "income",
+      "category": "Venda",
+      "price": 150000,
+      "createdAt": "2021-03-01T00:00:00.000Z"
+    }
+  ]
+}
