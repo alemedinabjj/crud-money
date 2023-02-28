@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "type": "deposit",
+      "amount": 1000,
+      "effectiveDate": "2019-01-01"
+    },
+    {
+      "id": "2",
+      "type": "withdrawal",
+      "amount": 100,
+      "effectiveDate": "2019-01-02"
+    },
+    {
+      "id": "3",
+      "type": "deposit",
+      "amount": 500,
+      "effectiveDate": "2019-01-03"
+    },
+    {
+      "id": "4",
+      "type": "withdrawal",
+      "amount": 200,
+      "effectiveDate": "2019-01-04"
+    },
+    {
+      "id": "5",
+      "type": "withdrawal",
+      "amount": 100,
+      "effectiveDate": "2019-01-05"
+    }
+  ]
+}

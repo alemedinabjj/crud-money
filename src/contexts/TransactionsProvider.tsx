@@ -24,7 +24,7 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
   const [transactions, setTransactions] = useState<ITransaction[]>([]);
 
   async function getTransactionsList() {
-    const response = await fetch("http://localhost:3001/transactions");
+    const response = await fetch("http://localhost:3333/transactions");
     const data = await response.json();
 
     setTransactions(data);
